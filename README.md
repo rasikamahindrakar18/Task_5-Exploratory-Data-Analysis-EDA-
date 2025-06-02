@@ -16,7 +16,7 @@ Perform Exploratory Data Analysis (EDA) on the Titanic dataset to uncover patter
 ## 📁 Files Included:
 - `EDA_Titanic.ipynb` – Jupyter Notebook with code, visualizations, and observations.
 - `Titanic Dataset Analysis.pdf` – PDF version of the notebook for easier viewing.
-- `train.csv` – Titanic dataset (optional: you can mention it's from Kaggle if not uploaded).
+- `train.csv` – Titanic dataset
 
 ## 📊 Key Insights:
 - **Sex:** Female passengers had a much higher survival rate than males.
